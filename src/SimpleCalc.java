@@ -4,5 +4,6 @@ public class SimpleCalc {
         int b = 1;
 
         System.out.println(a + " plus " + b + " daje wynik " + (a + b));
+        // komentarz do klasy
     }
 }
